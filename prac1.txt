@@ -1,0 +1,19 @@
+pwd
+cd 
+cd ..
+ls 
+ls-h
+touch file_name 
+cat 
+head
+tail -n14 specific no of line same for head
+mv file_name destination
+mkdir
+rmdir
+rm 
+cp file_name destination
+clear
+history
+whoami
+nano file_name
+grep search_item file_name
